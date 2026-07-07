@@ -21,6 +21,7 @@ cd kiberforce
 
 # 2. Lazımi kitabxanaları quraşdırın
 pip install -r requirements.txt
+```
 📖 Nümunə İşlətmə (Usage Examples)
 1. Hash Qırma (Wordlist ilə)
 
