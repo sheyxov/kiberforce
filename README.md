@@ -16,8 +16,8 @@
 
 ```bash
 # 1. Repozitoriyanı yükləyin və qovluğa daxil olun
-git clone <repo-url>
-cd crack-detector
+git clone https://github.com/sheyxov/kiberforce
+cd kiberforce
 
 # 2. Lazımi kitabxanaları quraşdırın
 pip install -r requirements.txt
